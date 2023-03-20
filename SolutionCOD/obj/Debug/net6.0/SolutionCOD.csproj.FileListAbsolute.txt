@@ -1,0 +1,15 @@
+C:\TEST\SolutionCOD\bin\Debug\net6.0\SolutionCOD.exe
+C:\TEST\SolutionCOD\bin\Debug\net6.0\SolutionCOD.deps.json
+C:\TEST\SolutionCOD\bin\Debug\net6.0\SolutionCOD.runtimeconfig.json
+C:\TEST\SolutionCOD\bin\Debug\net6.0\SolutionCOD.dll
+C:\TEST\SolutionCOD\bin\Debug\net6.0\SolutionCOD.pdb
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.csproj.AssemblyReference.cache
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.AssemblyInfoInputs.cache
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.AssemblyInfo.cs
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.csproj.CoreCompileInputs.cache
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.dll
+C:\TEST\SolutionCOD\obj\Debug\net6.0\refint\SolutionCOD.dll
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.pdb
+C:\TEST\SolutionCOD\obj\Debug\net6.0\SolutionCOD.genruntimeconfig.cache
+C:\TEST\SolutionCOD\obj\Debug\net6.0\ref\SolutionCOD.dll
